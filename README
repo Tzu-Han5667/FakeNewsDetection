@@ -1,0 +1,36 @@
+--There is the list of code files. Description are under file names.
+--The reference means the methodologies and results of this file are mentioned in these sections on the thesis.
+
+-Procedure: Data Collection-
+Step 1_Project_Topic Analysis .ipynb
+	Find topics from suspended data (reference: 4.2.2, 5.2.1 and 5.3.1).
+Step 2_Data Collection (China) .ipynb
+	Daily work on collecting unsuspended data on Chinese topics (reference: 4.2.2).
+Step 2_Data Collection (Russia) .ipynb
+	Daily work on collecting unsuspended data on Russian topics (reference: 4.2.2).
+
+-Procedure: Feature Production-
+Step 3_Sentimental Analysis .ipynb
+	Analysis the sentiment of tweets (reference: 4.3, 5.2.2 and 5.3.2).
+Step 4_Hashtags .ipynb
+	Find hashtags relative features (reference: 4.3, 5.2.3 and 5.3.3).
+Step 5_Day & Sorting .ipynb
+	Split time data into day, hour and minute (reference: 4.3).
+
+-Procedure: Feature selection-
+Step 6_Feature Selection .ipynb
+	Select feature combination by three approaches (reference: 4.4, 5.2.4 and 5.3.4).
+
+-Procedure: Classifier and Analysis-
+Step 7.1_Classifier (China) - by classifier.ipynb
+	Select models by classifier performance and analyse results on Chinese topics (reference: 4.5 and 5.2.5.1).
+Step 7.1_Classifier (China) - by classifier.ipynb
+	Select models by classifier performance and analyse results on Russian topics (reference: 4.5 and 5.3.5.1).
+Step 7.2_Classifier (China) - by combination.ipynb
+	Select models by combination performance and analyse results on Chinese topics (reference: 4.5 and 5.2.5.2).
+Step 7.2_Classifier (China) - by combination.ipynb
+	Select models by combination performance and analyse results on Russian topics (reference: 4.5 and 5.3.5.2).
+Step 8.1_Aanlysis by classifier.ipynb
+	Analytic work on Step 7.1 (reference: 4.5, 5.2.5.1 and 5.3.5.1).
+Step 8.2_Aanlysis by models.ipynb
+	Analytic work on Step 7.2 (reference: 4.5, 5.2.5.2 and 5.3.5.2).
